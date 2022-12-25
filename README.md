@@ -12,11 +12,7 @@ This project was developed with the following tecnologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Phosphor React](https://phosphoricons.com/)
 - [Styled-Components](https://styled-components.com/)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
-- [Radix](https://www.radix-ui.com/)
-- [Scheduler](https://www.npmjs.com/package/scheduler?activeTab=versions)
-- [Use Context Selector](https://github.com/dai-shi/use-context-selector)
-- [Zod](https://github.com/colinhacks/zod)
+- [date-fns](https://date-fns.org/)
 
 # 💡 About the project 
 
